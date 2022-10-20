@@ -1,4 +1,3 @@
 def call(String name = 'yere') {
-    echo "Hello world, ${name}."
-    
+    echo "Hello world, ${name}."  
 }
