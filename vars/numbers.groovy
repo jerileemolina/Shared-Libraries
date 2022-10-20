@@ -1,4 +1,5 @@
 def call(int number)
+    number = 4
     if (number % 2 == 0) {
     pipeline {
       agent any
@@ -10,7 +11,9 @@ def call(int number)
         }
       }
     }
-  } else {
+  } 
+  
+    else {
     pipeline {
       agent any
       stages {
