@@ -1,6 +1,6 @@
-def call(int number)
-    number = 4
-    if (number % 2 == 0) {
+def call(int num)
+    num = 4
+    if (num % 2 == 0) {
     pipeline {
       agent any
       stages {
