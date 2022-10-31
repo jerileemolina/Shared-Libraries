@@ -3,3 +3,4 @@ def call (map config = [:]) {
   2: [name:"APP_JAVA-PRE", version: 0.0.6],
   3: [name:"APP_JAVA-PRO", version: 0.0.7]
 }
+
