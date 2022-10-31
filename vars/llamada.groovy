@@ -1,6 +1,6 @@
 def call (map config = [:]) {
-  1: [name:"APP_JAVA-INT", version: 0.0.5],
-  2: [name:"APP_JAVA-PRE", version: 0.0.6],
-  3: [name:"APP_JAVA-PRO", version: 0.0.7]
+n1:"APP_JAVA-INT", v1: 0.0.5
+n2:"APP_JAVA-PRE", v2: 0.0.6
+n3:"APP_JAVA-PRO", v3: 0.0.7
 }
 
